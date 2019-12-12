@@ -1,8 +1,0 @@
-Six Embeddings Total
-Theses are the top rewarded embeddings
-1. LINE
-2. DEEPWALK - https://github.com/apoorvavinod/DeepWalk_implementaion
-3. NODE2VEC - https://github.com/eliorc/node2vec
-4. GRAPH2VEC - https://github.com/benedekrozemberczki/graph2vec
-5. STRUCTURAL DEEP NETWORK EMBEDDING  SDNE - https://github.com/suanrong/SDNE
-6. HARP - https://github.com/GTmac/HARP
