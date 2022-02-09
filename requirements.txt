@@ -3,7 +3,7 @@ matplotlib
 sklearn
 python-louvain===0.11 
 networkx===1.11 
-tensorflow-gpu===1.12.0 
+tensorflow-gpu===2.5.3 
 scipy 
 community 
 tqdm===4.19.5
